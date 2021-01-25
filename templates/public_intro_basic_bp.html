@@ -1,0 +1,16 @@
+{% extends "layout_intro.html" %}
+{% block body %}
+    {{ super() }}
+    <!--
+    <img class="portrait" src="static/img/Lixiang.jpg" alt="Lixiang Li" />
+    -->
+    <img src="{{ url_for('static', filename='img/Lixiang.png') }}" alt="Cinque Terre" width="155" height="206">
+            <ul>
+              <li class="mail">lx829382@dal.ca</li>
+              <li class="tel">+1-201-238-5321</li>
+            </ul>
+        <div class="entry">
+          <h2>OBJECTIVE</h2>
+          <p>Find reseach internship position and continue to do PHD program in the future</p>
+        </div>
+{% endblock %}

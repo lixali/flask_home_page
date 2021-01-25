@@ -1,0 +1,38 @@
+hi from shell script
+hello from shell script
+/home/ubuntu/hello.sh
+test.JPEG
+('the query image hash value is', 64461957960648374451947066977064074382345632834472782020250142931834724778484168716630151970260254751354052229858612856152029897407226080137082286877000217665568693732165406567920043655873703690171555541612831780244821237835678439570764740459597044582015048110705705293402846965366988667192484136801533952L)
+[INFO] loading VP-Tree and hashes...
+[INFO] loading VP-Tree: ./vptree_6.pickle
+[INFO] performing search on ./vptree_6.pickle
+[INFO] loading VP-Tree: ./vptree_13.pickle
+[INFO] performing search on ./vptree_13.pickle
+[INFO] loading VP-Tree: ./vptree_12.pickle
+[INFO] performing search on ./vptree_12.pickle
+[INFO] loading VP-Tree: ./vptree_11.pickle
+[INFO] performing search on ./vptree_11.pickle
+[INFO] loading VP-Tree: ./vptree_7.pickle
+[INFO] performing search on ./vptree_7.pickle
+[INFO] loading VP-Tree: ./vptree_5.pickle
+[INFO] performing search on ./vptree_5.pickle
+[INFO] loading VP-Tree: ./vptree_8.pickle
+[INFO] performing search on ./vptree_8.pickle
+[INFO] loading VP-Tree: ./vptree_3.pickle
+[INFO] performing search on ./vptree_3.pickle
+[INFO] loading VP-Tree: ./vptree_9.pickle
+[INFO] performing search on ./vptree_9.pickle
+[INFO] loading VP-Tree: ./vptree_10.pickle
+[INFO] performing search on ./vptree_10.pickle
+[INFO] loading VP-Tree: ./vptree_2.pickle
+[INFO] performing search on ./vptree_2.pickle
+[INFO] loading VP-Tree: ./vptree_4.pickle
+[INFO] performing search on ./vptree_4.pickle
+[INFO] loading VP-Tree: ./vptree_1.pickle
+[INFO] performing search on ./vptree_1.pickle
+[INFO] loading VP-Tree: ./vptree_0.pickle
+[INFO] performing search on ./vptree_0.pickle
+[INFO] search took 0.376101016998 seconds to search 999 images
+('resultslist is', [(1, u'64461957961287043350998177316794113650517421175614366423589489345115539896064076522028220471311441300311695654207202439142171495885297260293368236848436752641019839786667808383264391072359315761033751697511280854403075293513544298916403418984041478267918422241107983983603088898692543385666194219978457088')])
+[INFO] 1 total images(s) with d: 1, h:64461957961287043350998177316794113650517421175614366423589489345115539896064076522028220471311441300311695654207202439142171495885297260293368236848436752641019839786667808383264391072359315761033751697511280854403075293513544298916403418984041478267918422241107983983603088898692543385666194219978457088
+ILSVRC2012_val_00001571.JPEG
